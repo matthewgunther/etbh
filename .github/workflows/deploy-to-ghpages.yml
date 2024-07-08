@@ -38,7 +38,8 @@ jobs:
         with:
           node-version: "18"
       - run: npm install @11ty/eleventy
-      - run: eleventy
+      - run: npx @11ty/eleventy
+      - run: ls
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
