@@ -9,5 +9,5 @@ layout: "base.njk"
 # Posts:
 
 {% for post in collections.posts %}
-- [{{ post.data.page_title }}](.{{ post.url }}/index.html)
+- [{{ post.data.page_title }}](.{{ post.url }}index.html)
 {% endfor %}
