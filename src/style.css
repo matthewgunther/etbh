@@ -98,12 +98,36 @@
     font-style: normal;
 }
 @font-face {
+    font-family: "nyghtMed";
+    src: url("./fonts/nyght-serif/NyghtSerif-Medium.woff2") format("opentype");
+    font-weight: medium;
+    font-style: normal;
+}
+@font-face {
     font-family: "sligoil";
     src: url("./fonts/sligoil/Sligoil-Micro.woff2") format("opentype");
     font-weight: normal;
     font-style: normal;
 }
 
+@font-face {
+    font-family: "latitude";
+    src: url("fonts/latitude/Equateur-Regular.woff2") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "equator";
+    src: url("fonts/latitude/Latitude-Regular.woff2") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "sneaky";
+    src: url("fonts/sneaky/Sneaky-Times.woff2") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
 
 
 
@@ -133,8 +157,8 @@ h4 {
 
 
 body {
-    font-family: "nyghtReg";
-    width: 75%;
+    font-family: "sneaky";
+    width: 50%;
     margin: 0 auto;
 }
 
