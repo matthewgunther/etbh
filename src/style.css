@@ -128,8 +128,25 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family: "zodiak";
+    src: url("fonts/zodiak/Zodiak-Regular.woff2") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "ruda";
+    src: url("./fonts/ruda/Ruda-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
 
-
+@font-face {
+    font-family: "lusitana";
+    src: url("./fonts/lusitana/Lusitana-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
 
 
 
@@ -157,8 +174,8 @@ h4 {
 
 
 body {
-    font-family: "sneaky";
-    width: 50%;
+    font-family: "lusitana";
+    width: 70%;
     margin: 0 auto;
 }
 
