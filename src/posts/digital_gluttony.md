@@ -1,7 +1,8 @@
 ---
-site_title: Excited to Be Here
-page_title: "Digital Gluttony: Can We Free Ourselves?"
-post_date: August 14, 2024
+site_title: "Excited to Be Here"
+page_title: "Digital Gluttony"
+subtitle: "Can We Free Ourselves?"
+post_date: "August 14, 2024"
 ---
 
 This reflection on modern music consumption was sparked by Mark Fisher's *Capitalist Realism*. Fisher illustrates the notion that capitalism binds its participants into a state of addictive consumption framed as a system to fulfill their desires. The most affected exist in a parisitic haze of constant consumption. Depressive hedonia transfers a longing for deeper human fulfillment into strained grasping for meaning from a social media feed. In the strictest sense the subjugation of this system is voluntary. Even if all actors, from the content providers to the users, are well meaning, the design of the interaction is corrupting. *"While the structure remains, the vices will reproduce themselves."*
@@ -18,8 +19,9 @@ Drake has built a career on adopting musical styles. There's a lot to not like a
 
 Ubiquitous access to art gives us better access makes the good stuff possible to find. It also leads to digital gluttony. Gross consumption. Examining streaming services specifically, a fixed price for infinite listening means that every waking moment can be crammed with music, podcasts, and audiobooks. Silence no longer needs to be endured. Unpleasent thoughts can be steam rolled with an endless catalog of content. For serious music listeners, these are favorable economics. But when we are constanly listening, music (and more broadly art) is no longer a scarce reprieve. This is the sharpest consequence of infinite access. Culture is as rich as ever. There are still moving performances. There are still artists mastering their craft. But our ever obliging ear buds are a gateway to a deadly sin. Digital gluttony is deadly, because it robs impactful art of the potency which might save us.
 
+</br>
 
-#### Appendix
+## Appendix
 
 A list of some of the most innovative and refreshing artists as of late:
 

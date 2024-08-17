@@ -1,5 +1,5 @@
 ---
-site_title: Excited to Be Here
+site_title: "Excited to Be Here"
 page_title: paggee
 layout: "base.njk"
 ---
@@ -9,5 +9,5 @@ layout: "base.njk"
 # Posts:
 
 {% for post in collections.posts %}
-- [{{ post.data.page_title }}](.{{ post.url }}index.html)
+- [{{ post.data.page_title }}{% if post.data.subtitle != "" %}: {% endif %}{{ post.data.subtitle }}](.{{ post.url }}index.html)
 {% endfor %}

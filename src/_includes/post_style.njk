@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page_title }} | {{ site_title }}</title>
+  <title>{{ page_title }} | EtBH</title>
   <link rel="stylesheet" href="../../style.css">
 </head>
 
@@ -14,8 +14,11 @@
     </a>
   </header>
   <main>
-    <h1>{{ page_title }}</h1>
-    <h4>{{ post_date }}</h4>
+    <div class="justify-text">
+      <h1 span class="page_title">{{ page_title }}</span>
+      <h3 span class="right">{{ post_date }}</span>
+    </div>
+    <h2 class="left">{{ subtitle }}</h2>
     {{ content | safe }}
   </main>
 </body>

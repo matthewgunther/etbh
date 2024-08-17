@@ -150,45 +150,114 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 .heading {
+    color: #ffffff;
+
     font-family: "destraLight";
     font-size: 2em;
     text-align: center;
     margin: 50px 0;
 }
 
+
 .subheading {
+    color: #ffffff;
     font-family: "sligoil";
     text-align: center;
     font-size: 1.2em;
 }
 
+.date{
+    color: #ffffff; 
+}
+
+.page_title{
+    color: #e6e34c;
+}
+
 
 h1 {
+    color: #ffffff;
+
+    margin-bottom: 0;
     font-family: "sligoil";
 }
 
-h4 {
+h2 {
+    color: #5bcd9a;
     font-family: "sligoil";
 }
 
+h3 {
+    font-family: "sligoil";
+}
 
 body {
+    background-color: #1f1f1f;
+    color: #ffffff;
     font-family: "lusitana";
     width: 70%;
     margin: 0 auto;
 }
 
-header a {
-    color: inherit; /* Inherit color from parent element */
-    text-decoration: none; /* Remove underline */
+
+
+
+
+body a {
+    color: #e6e34c;
+    text-decoration: none;
 }
-header a:hover {
-    text-decoration: none; /* Add underline on hover */
+
+body a:hover {
+    color: #d745ba;
+    text-decoration: none;
+}
+
+header a h1:hover {
+    margin-left: 0px;
+    color: #d745ba;
+    text-decoration: none;
 }
 
 
 
+
+
+
+
+
+
+
+
+
+.justify-text {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Optional: vertically align text */
+}
+
+
+
+.right {
+    /* You can add any specific styles for the right-aligned text here */
+    text-align: right;
+    color: #ffffff;
+
+}
 /* 
 h1 {
     font-family: "jgs", sans-serif;
