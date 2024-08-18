@@ -20,19 +20,6 @@
 }
 
 @font-face {
-    font-family: "jgs";
-    src: url("./fonts/") format("truetype");
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: "jgs";
-    src: url("./fonts/") format("truetype");
-    font-weight: normal;
-    font-style: normal;
-}
-@font-face {
     font-family: "RegDurandus";
     src: url("./fonts/regular/RegDurandus.otf") format("opentype");
     font-weight: normal;
@@ -148,10 +135,35 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: "picnic";
+    src: url("./fonts/picnic/PicNic-Regular.woff2") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
 
 
+@font-face {
+    font-family: "monhugo";
+    src: url("./fonts/out/MonHugo-out.woff2") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "louise";
+    src: url("./fonts/louise/Louise-Regular.woff2") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
 
 
+@font-face {
+    font-family: "swirl";
+    src: url("./fonts/swirl/Ouroboros-Regular.woff2") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
 
 
 
@@ -262,3 +274,30 @@ header a h1:hover {
 h1 {
     font-family: "jgs", sans-serif;
 } */
+
+
+
+
+
+/* Style the list to have three columns */
+ul.three-column-list {
+    column-count: 3; /* Divide the list into 3 columns */
+    column-gap: 20px; /* Optional: Add space between columns */
+    list-style-position: inside; /* Optional: Align bullet points inside the columns */
+    padding: 0;
+    margin: 0;
+}
+
+/* Optional: Style the list items */
+ul.three-column-list li {
+    padding: 5px 0; /* Optional: Add spacing between list items */
+}
+
+
+
+footer p{
+    color: #262626;
+    text-align: center;
+    font-family: "swirl";
+    font-size: 2.3em;
+}
