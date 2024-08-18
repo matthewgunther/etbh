@@ -1,6 +1,5 @@
 ---
 site_title: "Excited to Be Here"
-page_title: paggee
 layout: "base.njk"
 ---
 
