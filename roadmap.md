@@ -1,15 +1,19 @@
-
-
 ## Roadmap
 
-- Topics
-    - Canon (great media)
-        - 808s and Heartbreak
-        - Blueprint
-        - Marcus Aurelius
-        - Heatmiser
-    - Personal projects (things I'm proud of)
-        - FD Optimization
-        - Bubble Bender
-        - SiteScan
-        - Master's thesis
+Med device:
+- BD
+- FD optimization
+
+
+- Canon (great media)
+    - 808s and Heartbreak
+    - Blueprint
+    - Marcus Aurelius
+    - Heatmiser
+- Personal projects (things I'm proud of)
+    - FD Optimization
+    - Bubble Bender
+    - SiteScan
+    - Master's thesis
+
+

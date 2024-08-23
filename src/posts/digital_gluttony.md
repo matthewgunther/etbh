@@ -47,14 +47,17 @@ A list of some of the most innovative and refreshing artists as of late:
 <li>Dora Jar</li>
 <li>SZA</li>
 <li>Brent Faiyez</li>
+<li>Sophie</li>
 <li>Dessert</li>
 <li>Hether</li>
 <li>Tennis</li>
 <li>Tyler Childers</li>
 <li>Gus Dapperton</li>
+<li>Flying Lotus</li>
 <li>Florist </li>
 <li>Grimes</li>
 <li>Boygenius</li>
+<li>JPEGMafia</li>
 <li>Baby Keem</li>
 <li>Wilco</li>
 <li>Big Thief</li>
