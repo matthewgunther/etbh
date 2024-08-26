@@ -5,6 +5,24 @@ subtitle: "Can We Free Ourselves?"
 post_date: "August 18, 2024"
 ---
 
+<style>
+  .image-div {
+      position: relative;
+      top: -110px;
+      left: -55px;
+      z-index: 1;
+  }
+
+   #image-id {
+       width: 60px;
+       height: auto;
+       position: absolute;
+  }
+</style>
+
+
+
+
 This reflection on the modern music ecosystem was sparked by Mark Fisher's *Capitalist Realism: Is there no alternative?*. Fisher's central claim is that capitalism binds its participants into a state of addictive consumption framed as a system to fulfill their desires. Depressive hedonia transmutes a longing for deep human fulfillment into a perpetual grasping for meaning from social media feeds and mass market products which never deliver. In the strictest sense this subjugation is voluntary. The machine we have built is based on the illusion that the goods and services we exchange create meaning. Even if all actors&mdash;from the producers to the consumers&mdash;are well meaning, the design of the interaction is corrupting. *"While the structure remains, the vices will reproduce themselves."<sub>1</sub>*
 
 Fisher's analysis is bleak. At every turn, he believes that authentic culture as becoming corrupted through commodification. The vein of hope is an awakening from the amnesia of genuine, purposeful community outside of capitalist economics. Art can shake and inspire new generations. Fisher states that *"cravings for the strange, the unexpected, the weird"<sub>1</sub>* enable real perspective shifts that *"can only be supplied by artists and media professionals who are prepared to give people something different from that which already satisfies them."<sub>1</sub>* The spirit of the most compelling art pieces is as Adam Curtis puts it: *"we can free you from yourself."<sub>1</sub>*
