@@ -3,6 +3,7 @@ site_title: "Excited to Be Here"
 page_title: "Digital Gluttony"
 subtitle: "Can We Free Ourselves?"
 post_date: "August 18, 2024"
+post_date_sort: 20240818
 ---
 
 <style>
