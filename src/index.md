@@ -6,7 +6,7 @@ layout: "base.njk"
 </br>
 
 # Posts:
-
-{% for post in collections.posts %}
+{% assign sortedPosts = collections.posts | sort: 'data.post_date_sort' | reverse %}
+{% for post in sortedPosts %}
 - [{{ post.data.page_title }}{% if post.data.subtitle != "" %}: {% endif %}{{ post.data.subtitle }}](.{{ post.url }}index.html)
 {% endfor %}

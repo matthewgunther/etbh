@@ -3,6 +3,7 @@ site_title: "Excited to Be Here"
 page_title: "Digital Gluttony"
 subtitle: "Can We Free Ourselves?"
 post_date: "August 18, 2024"
+post_date_sort: 20240818
 ---
 
 <style>
@@ -19,8 +20,6 @@ post_date: "August 18, 2024"
        position: absolute;
   }
 </style>
-
-
 
 
 This reflection on the modern music ecosystem was sparked by Mark Fisher's *Capitalist Realism: Is there no alternative?*. Fisher's central claim is that capitalism binds its participants into a state of addictive consumption framed as a system to fulfill their desires. Depressive hedonia transmutes a longing for deep human fulfillment into a perpetual grasping for meaning from social media feeds and mass market products which never deliver. In the strictest sense this subjugation is voluntary. The machine we have built is based on the illusion that the goods and services we exchange create meaning. Even if all actors&mdash;from the producers to the consumers&mdash;are well meaning, the design of the interaction is corrupting. *"While the structure remains, the vices will reproduce themselves."<sub>1</sub>*
