@@ -166,15 +166,6 @@
 }
 
 
-
-
-
-
-
-
-
-
-
 .heading {
     color: #ffffff;
 
@@ -183,7 +174,6 @@
     text-align: center;
     margin: 50px 0;
 }
-
 
 .subheading {
     color: #ffffff;
@@ -200,10 +190,8 @@
     color: #e6e34c;
 }
 
-
 h1 {
     color: #ffffff;
-
     margin-bottom: 0;
     font-family: "sligoil";
 }
@@ -225,10 +213,6 @@ body {
     margin: 0 auto;
 }
 
-
-
-
-
 body a {
     color: #e6e34c;
     text-decoration: none;
@@ -245,24 +229,11 @@ header a h1:hover {
     text-decoration: none;
 }
 
-
-
-
-
-
-
-
-
-
-
-
 .justify-text {
     display: flex;
     justify-content: space-between;
     align-items: center; /* Optional: vertically align text */
 }
-
-
 
 .right {
     /* You can add any specific styles for the right-aligned text here */
@@ -270,14 +241,6 @@ header a h1:hover {
     color: #ffffff;
 
 }
-/* 
-h1 {
-    font-family: "jgs", sans-serif;
-} */
-
-
-
-
 
 /* Style the list to have three columns */
 ul.three-column-list {
@@ -293,8 +256,6 @@ ul.three-column-list li {
     padding: 5px 0; /* Optional: Add spacing between list items */
 }
 
-
-
 footer p{
     color: #262626;
     text-align: center;
@@ -302,25 +263,10 @@ footer p{
     font-size: 2.3em;
 }
 
-
-
-/* .image-container {
-    position: relative; /* Relative position of the container */
-    width: 0; /* Container's width */
-    height: 0px; /* Container's height */
-    background-color: transparent; /* No background */
-}
-
-
 #fixed-image {
     position: relative;
     top: -200px; /* Distance from the top of the viewport */
-    /* right: 0px; Distance from the left of the viewport */
     z-index: 100; /* Ensure it stays on top of other elements */
     pointer-events: none; /* Optional: Makes the image non-interactive */
     scale: 0.05;
-    /* transform: translate(-300%, -500%); Shift image to be centered horizontally and positioned on top of the element */
-
-    /* left: 50%; */
-
-} */
+}
