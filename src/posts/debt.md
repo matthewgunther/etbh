@@ -1,6 +1,6 @@
 ---
 site_title: "Excited to Be Here"
-page_title: "Debt"
+page_title: "Debt & Lars"
 subtitle: ""
 post_date: "May 11, 2025"
 post_date_sort: 20250511
@@ -8,7 +8,74 @@ post_date_sort: 20250511
 
 
 
-Ryan Gosling portrayal of a cagey 27-year-old in *Lars and the Real Girl* illustrates the lengths a community will go to support a member. Lars' childhood trauma of neglect and guilt manifests itself in his fabricated relationship with a "love doll" named Bianca. To the horror of his brother, Gus, and sister-in-law, Karin, this delusion is unshakeable and is the ultimate test of their support for Lars. To see this delusion through (at the advice of a doctor) Lars' family must sacrifice their pride and image. They win the support of their community, who also, in an effort to support Lars, goes along with the peculiar situation. What is moving about this is how the essence of true Empathy is captured.
+
+[INTRO]
+In *Debt* David Graeber remarks that to clear one's debts is in effect to terminate the relationship with the other party. The time we spend in each other's debt is the most exciting and the most human. "Nearly everything intersting happens when we are in each other's debt." Recently, I re-watched a favorite movie of mine, *Lars and the Real Girl*. Ryan Gosling plays Lars, a cagey 27-year-old invert who lives in the side house of his childhood home, next to his brother, Gus, who lives in the main house with his wife, Karin. The plot is driven by Lars' new girlfriend, Bianca, a "love doll" he has ordered from the internet. The story is charmingly absurd, because Lars is under the delusion that Bianca is a real person (as a manifestation of his mental illness) and as a devout Christian, he pursues a very formal courtship. Of course, Gus and Karin are horrified. They can either deny the reality that Lars has fabricated or play along and see it to it's conclusion.    
+
+
+[MOVIE DESCRIPTION]
+To win the ultimate test of their support for Lars, Gus and Karin must sacrifice their pride and further to ask the same of their community. 
+Gus and Karin must sacrifice their image and rally the town to accomodate Bianca, giving her a fake job, inviting her to social functions, even styling her with a chic haircut. 
+Throughout the film Lars' insecurities, phobias, and childhood trauma sruface through Bianca. 
+His relationship with Bianca becomes the conduit through which Lars can finally engage with his family.
+Lars is eventually able to "kill" Bianca or rather make peace with the troubles that led to her even "existance".   
+
+
+[WHY IT MATTTERS]
+What is moving about *Lars and the Real Girl* is how completely it captures true Compassion.
+But what is interesting is why even do all of this?
+Why help Lars at all?
+I think much of what David Graeber discusses in *Debt* is relevant here, specifically Primordial Debt Theory.
+We offer the humanity to others that we would hope receive. 
+The townspeople come to terms with their quirks and flaws and conclude that Lars', though strange, means well and is deserving of the same treatment.
+Gus comes to terms with the guilt he feels having left Lars to grow up alone with their troubled father.
+Beyond was it typically afforded of a decent person, the town demonstrates its capability for real charity.
+What they give Lars can only appreciate as the kindness and care they had for Bianca, his girlfriend.
+Lars can never appreciate how his family let their ego go, and the ridiculousness of the town constructing a real life for Bianca.
+This is true charity.
+Lars will never know it, but his debt was forgiven.
+As the pastor at Bianca's funeral puts it: "she was a lesson in courage".
+
+
+
+[WHAT DOES LARS OWE?]
+Though he cannot repay his community in kind, perhaps Lars' metamorphosis and re-integration is the gift they deserve.
+Margo, who has a crush on Lars throughout the film, is stuck pining over him and continually thwarted by his reclusive behavior.
+Though she remains a true friend to Lars, she cannot help but balk at Bianca's attending Sunday mass.
+She mirrors the town's disposition of trying to be empathatic towards Lars, but can't help a shade of bewilderment.
+In the end, through the immense effort of others to help Lars heal, Lars begins to reciprocate Margo's interest. 
+It is a small, but meaningful act.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why does the town accomodate Lars? 
+
+Gus and Karin bend over backwards for Lars.
+The townspeople go to great length of all of the family's sake.
+It's real Compassion in that Lars can never fully appreciate what everyone else has done for him. He can only have gratitude that Bianca was welcomed and her loss was mourned, but he will never understand that Bianca was never real. For whatever "debt" Lars has accumulated, a significant portion of it must be forgiven by the "creditor". 
+
+We see community members acknowledge their own flaws, 
+
+
+We learn of Gus' guilt in leaving Lars to grow up alone with their troubled father. 
+
+[WHO IS IN DEBT]
+
+
+[EXPAND ON DEBT?]
+
+Ryan Gosling's portrayal of a cagey 27-year-old in *Lars and the Real Girl* illustrates the lengths a community will go to support a member. Lars' childhood trauma of neglect and guilt manifests itself in his fabricated relationship with a "love doll" named Bianca. To the horror of his brother, Gus, and sister-in-law, Karin, this delusion is unshakeable and is the ultimate test of their support for Lars. To see this delusion through (at the advice of a doctor) Lars' family must sacrifice their pride and image. They win the support of their community, who also, in an effort to support Lars, goes along with the peculiar situation. What is moving about this is how the essence of true Empathy is captured.
 
 The entire community integrates Lars' girlfriend into activities, gives her a fake job, even styles her with a new haircut. Though Lars' mental illness appears ever deeper, the town's compassion is yet deeper. Watching this movie after recently reading David Graeber's *Debt* I realized it is an excellent illustration of primordial debt in that the town completely embraces Lars. It asks us "What do we owe each other?". Lars is a decent man, but nevertheless cannot function in a typical social capacity. Yet his family and friends bend over backward as his psychotic episode progresses and ultimately resolves.
 
