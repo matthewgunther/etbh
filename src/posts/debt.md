@@ -6,6 +6,26 @@ post_date: "May 11, 2025"
 post_date_sort: 20250511
 ---
 
+
+
+Ryan Gosling portrayal of a cagey 27-year-old in *Lars and the Real Girl* illustrates the lengths a community will go to support a member. Lars' childhood trauma of neglect and guilt manifests itself in his fabricated relationship with a "love doll" named Bianca. To the horror of his brother, Gus, and sister-in-law, Karin, this delusion is unshakeable and is the ultimate test of their support for Lars. To see this delusion through (at the advice of a doctor) Lars' family must sacrifice their pride and image. They win the support of their community, who also, in an effort to support Lars, goes along with the peculiar situation. What is moving about this is how the essence of true Empathy is captured.
+
+The entire community integrates Lars' girlfriend into activities, gives her a fake job, even styles her with a new haircut. Though Lars' mental illness appears ever deeper, the town's compassion is yet deeper. Watching this movie after recently reading David Graeber's *Debt* I realized it is an excellent illustration of primordial debt in that the town completely embraces Lars. It asks us "What do we owe each other?". Lars is a decent man, but nevertheless cannot function in a typical social capacity. Yet his family and friends bend over backward as his psychotic episode progresses and ultimately resolves.
+
+What explains this behavior? What does Lars have to offer others? That Lars is just a normal person is what makes the town's empathy remarkable. The explanation I like the best is that the town is acting in accordance with primordial debt theory. We owe each other the hospitality that we would hope to receive should we be in the position of someone like Lars.
+
+What does Lars owe his community? For starters probably gratitude. We see this play out when he is upset with Karin for Bianca's busy schedule of school board meetings and bingo nights and work. Bianca is real to him (an so thus is actually real) and he feels his relationship is being encroached upon, but what he cannot appreciate is that, not only has the town embraced Bianca as his actual girlfriend, they have accommodated his delusion. This requires Karin to swallow an immense amount of pain as surely explaining this to Lars would simply not register.
+
+
+Taking the analogy of debt (in accordance with Graeber's ideas) to its logical conclusion the appropriate thing for Lars to do would be to either repay the debt beyond its value (which is frankly impossible), or provide a smaller token of acknowledgement towards his tab. After Bianca's (metaphorical) death, Lars finally takes interest in Margo, the girl who has had a crush on him. Margo mirrors the town's mood toward Lars throughout the film. Initially supportive she still can't help but to balk at a sex doll sitting beside Lars in church. However, she continues to be understanding and supportive. She is there through the full extent of Lars' episode. In the end Lars begins to take reciprocate interest in her. It's not because he has to. It is that the result of receiving the best of others brings out the best of us. (I think it is better that the scientific implications of his medical condition should be put aside and the story is better interpreted as the healing of a troubled past through the immense effort of others.)
+
+
+
+
+
+
+
+
 # Primary themes:
 - Stratification of currencies that cannot be exchanged for one another
   - A debt of cows could never be paid in chickens
@@ -64,7 +84,7 @@ post_date_sort: 20250511
 # Quotes
 - "Barter system requires a double coincidence of wants for a trade to take place"
 - "you are free from your debt to your ancestors when you become an ancestor; you are free from your debt to the sages when you become a sage, you are free from your debt to humanity when you act with humanity."
-- "Debt is what happens in between: when the two parties cannot yet walk away from each other, because they are not yet equal. But it is carried out in the shadow of eventual equality. Because achieving that equality, however, destroys teh very reason for having a relationship, just about everything interesting happens in between. In fact, just about everything human happens in between--even if this means that all such human relation bear them at a tiny element of criminality, guilt, or shame."
+- "Debt is what happens in between: when the two parties cannot yet walk away from each other, because they are not yet equal. But it is carried out in the shadow of eventual equality. Because achieving that equality, however, destroys the very reason for having a relationship, just about everything interesting happens in between. In fact, just about everything human happens in between--even if this means that all such human relation bear them at a tiny element of criminality, guilt, or shame."
 
 
 # Questions
