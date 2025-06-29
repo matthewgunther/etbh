@@ -2,50 +2,57 @@
 site_title: "Excited to Be Here"
 page_title: "Debt & Lars"
 subtitle: ""
-post_date: "May 11, 2025"
+post_date: "June 28, 2025"
 post_date_sort: 20250511
 ---
 
 
+<!-- INTRO -->
+In *Debt*, David Graeber remarks that to for a person to clear their debts is in effect to terminate the relationship with the other party.
+The time we spend in each other's debt is the most important, because reaching  equality "destroys the very reason for having a relationship, just about everything interesting happens in between ... just about everything human happens in between".
+Recently, I re-watched a favorite movie of mine, *Lars and the Real Girl*.
+Ryan Gosling plays Lars, a cagey 27-year-old introvert who lives in the side house of his childhood home, next to his brother, Gus, who lives in the main house with his wife, Karin.
+Their pedestrian lives turn strange on the arrival of Bianca, Lars's new girlfriend, a "love doll" he has ordered from the internet.
+The story is charmingly absurd, because Lars is under the delusion that Bianca is a real person (as a manifestation of his mental illness) and as a devout Christian, he pursues a very formal and sincere courtship.
+Of course, Gus and Karin are horrified, but they can either deny the reality that Lars has fabricated or play along and see it to its conclusion.
 
 
-[INTRO]
-In *Debt* David Graeber remarks that to clear one's debts is in effect to terminate the relationship with the other party. The time we spend in each other's debt is the most exciting and the most human. "Nearly everything intersting happens when we are in each other's debt." Recently, I re-watched a favorite movie of mine, *Lars and the Real Girl*. Ryan Gosling plays Lars, a cagey 27-year-old invert who lives in the side house of his childhood home, next to his brother, Gus, who lives in the main house with his wife, Karin. The plot is driven by Lars' new girlfriend, Bianca, a "love doll" he has ordered from the internet. The story is charmingly absurd, because Lars is under the delusion that Bianca is a real person (as a manifestation of his mental illness) and as a devout Christian, he pursues a very formal courtship. Of course, Gus and Karin are horrified. They can either deny the reality that Lars has fabricated or play along and see it to it's conclusion.    
+<!-- MOVIE SYNOPSIS -->
+In the ultimate test of their love for Lars, Gus and Karin must sacrifice their image and further ask the same of their community.
+Before Bianca, Karin was going to ever greater lengths to have Lars open up.
+Gus had already become discouraged and resigned to letting Lars be.
+Though Lars's relationship with Bianca is initially disturbing, it becomes a conduit through which he can finally engage with his family.
+Karin is more open to entertaining Lars's reality, but Gus must choose between his pride and the wish he has held for his brother's improvement.
+Gus and Karin decide the trade-off is worth it and welcome Bianca.
+They rally the town to support Lars and accommodate Bianca, giving her a fake job, inviting her to social functions, even styling her with a chic haircut.
+Throughout the film Lars's insecurities, phobias, and childhood trauma surface through his imaginary girlfriend.
+In the end, Bianca dies of an illness, and Lars finds peace.
 
 
-[MOVIE DESCRIPTION]
-To win the ultimate test of their support for Lars, Gus and Karin must sacrifice their pride and further to ask the same of their community. 
-Gus and Karin must sacrifice their image and rally the town to accomodate Bianca, giving her a fake job, inviting her to social functions, even styling her with a chic haircut. 
-Throughout the film Lars' insecurities, phobias, and childhood trauma sruface through Bianca. 
-His relationship with Bianca becomes the conduit through which Lars can finally engage with his family.
-Lars is eventually able to "kill" Bianca or rather make peace with the troubles that led to her even "existance".   
-
-
-[WHY IT MATTTERS]
-What is moving about *Lars and the Real Girl* is how completely it captures true Compassion.
-But what is interesting is why even do all of this?
-Why help Lars at all?
+<!-- WHY IT MATTERS -->
+What is moving about *Lars and the Real Girl* is how completely it captures true compassion, but why help Lars at all?
 I think much of what David Graeber discusses in *Debt* is relevant here, specifically Primordial Debt Theory.
-We offer the humanity to others that we would hope receive. 
-The townspeople come to terms with their quirks and flaws and conclude that Lars', though strange, means well and is deserving of the same treatment.
+We offer the humanity to others that we would hope receive ourselves.
+The townspeople come to terms with their quirks and flaws and conclude that Lars, however weird, means well and is deserving of the same treatment.
 Gus comes to terms with the guilt he feels having left Lars to grow up alone with their troubled father.
-Beyond was it typically afforded of a decent person, the town demonstrates its capability for real charity.
-What they give Lars can only appreciate as the kindness and care they had for Bianca, his girlfriend.
-Lars can never appreciate how his family let their ego go, and the ridiculousness of the town constructing a real life for Bianca.
-This is true charity.
-Lars will never know it, but his debt was forgiven.
-As the pastor at Bianca's funeral puts it: "she was a lesson in courage".
+Beyond what it typically afforded of a decent person like Lars, the town demonstrates real charity.
+What they give to Lars he can only appreciate as the kindness and care they had for Bianca, his *real* girlfriend.
+Lars can never appreciate that his family put aside their ego to accommodate his delusion, and the ridiculousness of the townspeople constructing a life for Bianca.
+Lars will never know it, but he in debt, and because his creditor knows he will never know it, this is true charity.
+At Bianca's funeral, the pastor remarks: "She was a lesson in courage", because courage is what is demanded of us to care about something beyond ourselves.
 
 
-
-[WHAT DOES LARS OWE?]
-Though he cannot repay his community in kind, perhaps Lars' metamorphosis and re-integration is the gift they deserve.
-Margo, who has a crush on Lars throughout the film, is stuck pining over him and continually thwarted by his reclusive behavior.
+<!-- WHAT DOES LARS OWE? -->
+Though he cannot repay his community in kind, perhaps Lars's integration with society is a sort of reflexive repayment.
+It is not intentional, but it is not unwelcome; Lars's reform is the direct result of the community's care.
+So in what way does Lars begin to clear his tab.
+Margo, Lars's coworker and admirer, embodies the towns disposition towards Lars.
+She has a crush on Lars throughout the film and pines over him, yet is continually thwarted by his antisocial behavior.
+There is such love for Lars, but he never engages.
 Though she remains a true friend to Lars, she cannot help but balk at Bianca's attending Sunday mass.
-She mirrors the town's disposition of trying to be empathatic towards Lars, but can't help a shade of bewilderment.
-In the end, through the immense effort of others to help Lars heal, Lars begins to reciprocate Margo's interest. 
-It is a small, but meaningful act.
-  
+As with others, they are empathetic towards Lars, but can't help a shade of bewilderment.
+In the end, through the immense effort of others to help him heal, Lars begins to reciprocate Margo's interest, asking her on a walk.
+This act is small but meaningful and marks his movement towards a new life. 
 
 
 
@@ -57,7 +64,7 @@ It is a small, but meaningful act.
 
 
 
-
+<!--
 
 Why does the town accomodate Lars? 
 
@@ -186,4 +193,4 @@ I feel that contemporary life is marked by this notion of Technofeudalism that o
 Forever temporary permission to use something in exchange for the temporary buying power afforded to you by your contributions.
 
 
-
+-->
