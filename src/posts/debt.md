@@ -8,8 +8,8 @@ post_date_sort: 20250511
 
 
 <!-- INTRO -->
-In *Debt*, David Graeber remarks that to for a person to clear their debts is in effect to terminate the relationship with the other party.
-The time we spend in each other's debt is the most important, because reaching  equality "destroys the very reason for having a relationship, just about everything interesting happens in between ... just about everything human happens in between".
+In *Debt*, David Graeber remarks that for a person to clear their debts is in effect to terminate the relationship with the other party.
+The time we spend in each other's debt is the most important, because reaching equality "destroys the very reason for having a relationship, just about everything interesting happens in between ... just about everything human happens in between".
 Recently, I re-watched a favorite movie of mine, *Lars and the Real Girl*.
 Ryan Gosling plays Lars, a cagey 27-year-old introvert who lives in the side house of his childhood home, next to his brother, Gus, who lives in the main house with his wife, Karin.
 Their pedestrian lives turn strange on the arrival of Bianca, Lars's new girlfriend, a "love doll" he has ordered from the internet.
@@ -32,13 +32,13 @@ In the end, Bianca dies of an illness, and Lars finds peace.
 <!-- WHY IT MATTERS -->
 What is moving about *Lars and the Real Girl* is how completely it captures true compassion, but why help Lars at all?
 I think much of what David Graeber discusses in *Debt* is relevant here, specifically Primordial Debt Theory.
-We offer the humanity to others that we would hope receive ourselves.
+We offer the humanity to others that we would hope to receive ourselves.
 The townspeople come to terms with their quirks and flaws and conclude that Lars, however weird, means well and is deserving of the same treatment.
 Gus comes to terms with the guilt he feels having left Lars to grow up alone with their troubled father.
 Beyond what it typically afforded of a decent person like Lars, the town demonstrates real charity.
 What they give to Lars he can only appreciate as the kindness and care they had for Bianca, his *real* girlfriend.
 Lars can never appreciate that his family put aside their ego to accommodate his delusion, and the ridiculousness of the townspeople constructing a life for Bianca.
-Lars will never know it, but he in debt, and because his creditor knows he will never know it, this is true charity.
+Lars will never know it, but he is in debt, and because his creditor knows he will never know it, this is true charity.
 At Bianca's funeral, the pastor remarks: "She was a lesson in courage", because courage is what is demanded of us to care about something beyond ourselves.
 
 
@@ -46,13 +46,13 @@ At Bianca's funeral, the pastor remarks: "She was a lesson in courage", because 
 Though he cannot repay his community in kind, perhaps Lars's integration with society is a sort of reflexive repayment.
 It is not intentional, but it is not unwelcome; Lars's reform is the direct result of the community's care.
 So in what way does Lars begin to clear his tab.
-Margo, Lars's coworker and admirer, embodies the towns disposition towards Lars.
+Margo, Lars's coworker and admirer, embodies the town's disposition towards Lars.
 She has a crush on Lars throughout the film and pines over him, yet is continually thwarted by his antisocial behavior.
 There is such love for Lars, but he never engages.
 Though she remains a true friend to Lars, she cannot help but balk at Bianca's attending Sunday mass.
 As with others, they are empathetic towards Lars, but can't help a shade of bewilderment.
 In the end, through the immense effort of others to help him heal, Lars begins to reciprocate Margo's interest, asking her on a walk.
-This act is small but meaningful and marks his movement towards a new life. 
+This act is small but meaningful and marks his movement towards a new life.
 
 
 
